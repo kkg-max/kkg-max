@@ -10,12 +10,6 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/kkg-max">
-    <img src="https://komarev.com/ghpvc/?username=kkg-max&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
-<p align="center">
   Building projects, solving problems, and continuously learning.
 </p>
 
@@ -175,13 +169,25 @@ component-based development and frontend concepts.
 <!--                    CONNECT                            -->
 <!-- ===================================================== -->
 
+
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/kkg-max">
+
+  <a href="https://github.com/kkg-max" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <a href="https://linkedin.com/in/kothiya-krish" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/Krish_Kothiya/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
 </p>
+
 
 <p align="center">
   💡 Always learning. Always building. Always improving.
