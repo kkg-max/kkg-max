@@ -3,15 +3,13 @@
 <!--                    HEADER                             -->
 <!-- ===================================================== -->
 
-<h1 align="center">Hi 👋, I'm Krish Kothiya</h1>
+<h1 align="center">
+  Hey 👋, I'm Krish Kothiya
+</h1>
 
 <h3 align="center">
-  Computer Engineering Student | Backend & Full-Stack Developer
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Backend+Developer+in+Progress;Passionate+Problem+Solver;Building+Something+Interesting" />
 </h3>
-
-<p align="center">
-  Building projects, solving problems, and continuously learning.
-</p>
 
 ---
 
